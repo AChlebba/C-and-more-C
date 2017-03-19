@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1489954210 source:c:\users\adamn\documents\codeblocks\jarvisalg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
