@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1492724896 source:c:\users\adamn\documents\codeblocks\ciagcyfr2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
